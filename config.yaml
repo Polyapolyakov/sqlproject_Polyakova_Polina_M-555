@@ -1,0 +1,5 @@
+dbname: movie_catalog
+user: movie_user
+password: movie_password
+host: localhost
+dbtableprefix: "public."
